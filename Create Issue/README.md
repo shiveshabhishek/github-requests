@@ -1,0 +1,1 @@
+Make Github issues file can be usedd to create a github issue from Githubs API. More details is given in the comments of code snippet. Thanks!
