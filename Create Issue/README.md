@@ -1,1 +1,3 @@
-Make Github issues file can be usedd to create a github issue from Githubs API. More details is given in the comments of code snippet. Thanks!
+
+`make_github_issue.py` file can be used to create a github issue from Github's API.
+How to run that file with parameters is given in the comments of code snippet. Thanks!
